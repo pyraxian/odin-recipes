@@ -1,0 +1,15 @@
+/* style.css */
+
+h1 {
+    background-color: blue;
+    color: magenta;
+    font-family: 'Courier New', serif;
+}
+
+.recipe-links {
+    color: blueviolet;
+    font-size: 24px;
+    font-weight: 300;
+    font-family: 'Copperplate', serif;
+}
+
